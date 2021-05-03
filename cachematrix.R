@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 ## Write a short comment describing this function
 ## function checks if data is present in cache
-## if not then it calculates and returns the 
+## if not found then it calculates and returns the 
 ## inverse
 
 cacheSolve <- function(x, ...) {
